@@ -1,0 +1,14 @@
+
+---
+
+# 🚀 Como subir no GitHub
+
+### Pelo terminal:
+
+```bash
+git init
+git add .
+git commit -m "Batalha Naval Avançado em C"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/batalha-naval-avancado-c.git
+git push -u origin main
