@@ -1,0 +1,7 @@
+batalha-naval-avancado-c/
+│── main.c
+│── game.h
+│── game.c
+│── ai.h
+│── ai.c
+│── README.md
